@@ -1,0 +1,1 @@
+This project contains the scripts used to do the activity and posture classification and the realtime object-activity recognition using a feed-forward neural network 
